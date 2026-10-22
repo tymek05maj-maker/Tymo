@@ -1,0 +1,12 @@
+body{
+	color:rgb(10, 0, 0);
+}
+#naglowek{
+    background-color: darkblue;   /* ciemnogranatowe tło */
+    color: #ffffff;              /* biały tekst */
+    text-align: center;          /* wyśrodkowanie */
+    padding: 30px;               /* wewnętrzny odstęp */
+    font-family: 'Arial', sans-serif;  /* czcionka */
+    letter-spacing: 2px;         /* odstęp między literami */
+    font-size: 100px;
+}
